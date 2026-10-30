@@ -1,0 +1,129 @@
+MCA203P Lab Sheet 09 - ACTUAL SAMPLE OUTPUTS
+Generated from successful javac/java runs. Environment-dependent output may differ.
+========================================================================
+
+>>> java Q01_ArrayListPrint
+10
+20
+30
+40
+
+>>> java Q02_ArrayListSize
+Names: [Asha, Ravi, Neha]
+Size: 3
+
+>>> java Q03_ArrayListInsert
+After insert: [Delhi, Agra, Jaipur]
+
+>>> java Q04_ArrayListRemove
+Removed at index 1: Banana
+Removed Mango by value? true
+Remaining: [Apple, Guava]
+
+>>> java Q05_ArrayListUpdate
+Updated: [Red, Yellow, Blue]
+
+>>> java Q06_ForEachLoop
+2
+4
+6
+8
+
+>>> java Q07_ArrayListIterator
+Asha
+Ravi
+Neha
+
+>>> java Q08_SortArrayList
+Ascending: [1, 2, 5, 7, 9]
+
+>>> java Q09_ReverseStrings
+Reversed order: [C++, Python, Java]
+
+>>> java Q10_LinkedListPrint
+Java
+DBMS
+AI
+
+>>> java Q11_LinkedListAddEnds
+[Monday, Tuesday, Wednesday, Thursday]
+
+>>> java Q12_LinkedListRemoveEnds
+First removed: 1
+Last removed: 4
+Remaining: [2, 3]
+
+>>> java Q13_LinkedListGetEnds
+First: One
+Last: Three
+
+>>> java Q14_HashSetNoDuplicates
+Unique values (unordered): [20, 10, 30]
+Size: 3
+
+>>> java Q15_HashSetRemove
+Removed Ravi? true
+Remaining: [Asha, Neha]
+
+>>> java Q16_HashSetIterator
+5
+25
+15
+
+>>> java Q17_TreeSetSorted
+Sorted: [5, 10, 20, 30]
+
+>>> java Q18_TreeSetContains
+Contains 20? true
+Contains 99? false
+
+>>> java Q19_LinkedHashSetOrder
+Insertion order: [Banana, Apple, Mango]
+
+>>> java Q20_CompareSetTypes
+HashSet (order unspecified): [1, 3, 7, 9]
+LinkedHashSet (insertion): [7, 3, 9, 1]
+TreeSet (sorted): [1, 3, 7, 9]
+
+>>> java Q21_PriorityQueuePrint
+Queue heap view (not sorted order): [10, 30, 20]
+
+>>> java Q22_PriorityQueuePoll
+Removed: 10
+Removed: 20
+Removed: 30
+Removed: 40
+
+>>> java Q23_PriorityQueuePeek
+Peek: 10
+Size after peek: 3
+
+>>> java Q24_QueueLinkedList
+Removed: First
+Remaining: [Second]
+
+>>> java Q25_QueueOperations
+Peek: A
+Removed: A
+Now: [B, C]
+
+>>> java Q26_CustomObjectIterator
+1 - Asha
+2 - Ravi
+
+>>> java Q27_CustomObjectComparator
+Sorted by roll: [1 - Asha, 2 - Ravi, 3 - Neha]
+
+>>> java Q28_ListToSet
+List: [Asha, Ravi, Asha, Neha]
+Set: [Asha, Ravi, Neha]
+
+>>> java Q29_SetToList
+Java
+DBMS
+AI
+
+>>> java Q30_ClearCollections
+List empty? true
+Set empty? true
+Queue empty? true
